@@ -10,3 +10,6 @@ arahkan ke folder tempat file `.py` disimpan
 ```
 streamlit run dasboard.py
 ```
+[link app dasboard](https://azwar-app.streamlit.app/)
+
+![gambar](https://github.com/MuhammadAzwarRoyadi/azwar-streamlit/blob/main/Screenshot%202023-07-07%20231437.png)
